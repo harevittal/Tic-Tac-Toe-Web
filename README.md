@@ -15,9 +15,6 @@ A unique implementation of the classic Tic-Tac-Toe game using **only HTML and CS
 
 ---
 
-## 📸 Screenshot
-
-![Tic-Tac-Toe Preview]([https://your-screenshot-url-if-any](https://github.com/harevittal/Tic-Tac-Toe-Web/blob/main/Tic%20Tac%20Toe.png))
 
 
 

@@ -4,14 +4,14 @@ A unique implementation of the classic Tic-Tac-Toe game using **only HTML and CS
 
 ---
 
-## 🕹️ Features
+##  Features
 
-- ✅ Two-player mode (local multiplayer)
-- ✅ Pure HTML & CSS — No JavaScript
-- ✅ Visually responsive and styled board
-- ✅ Win detection for rows, columns, diagonals
-- ✅ Tie game detection
-- ✅ Restart option at game end
+-  Two-player mode (local multiplayer)
+-  Pure HTML & CSS — No JavaScript
+-  Visually responsive and styled board
+-  Win detection for rows, columns, diagonals
+-  Tie game detection
+-  Restart option at game end
 
 ---
 
